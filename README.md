@@ -45,21 +45,38 @@
 
 ---
 
-<!-- ESTADÍSTICAS (CENTRADAS Y ALINEADAS) -->
-<h3 align="center">📊 GitHub Analytics</h3>
+<!-- ESTADÍSTICAS ESTILO PREMIUM (CENTRADO Y NIVELADO) -->
+<h3 align="center">📊 My GitHub Journey</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hober-El-Hacker&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hober-El-hacker&show_icons=true&locale=en&theme=dracula" alt="Stats" />
+  <a href="https://github.com/Hober-El-Hacker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hober-El-Hacker&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&hide_border=false" alt="Hober's Stats" height="195px" />
+  </a>
+  <a href="https://github.com/Hober-El-Hacker">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hober-El-Hacker&layout=compact&theme=tokyonight&hide_border=false" alt="Hober's Top Languages" height="195px" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hober-el-hacker&theme=dracula" alt="Streak" />
+  <img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=Hober-El-Hacker&theme=tokyonight&hide_border=false" alt="Hober's Streak" />
 </p>
 
+<!-- TROFEOS CON DISEÑO LIMPIO -->
+<h3 align="center">🏆 Achievements & Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hober-El-Hacker&theme=dracula&column=7&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Hober-El-Hacker&theme=tokyonight&no-bg=true&margin-w=15" alt="Hober's Trophies" />
 </p>
 
+---
+
+<!-- GRÁFICO DE CONTRIBUCIONES (PACMAN) -->
+<h3 align="center">👾 Contribution Activity</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+    <img alt="pacman graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg" width="850">
+  </picture>
+</p>
 ---
 
 <!-- MÚSICA Y CONTRIBUCIONES (CENTRADO) -->
