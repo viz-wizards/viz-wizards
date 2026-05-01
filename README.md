@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hober Fernando Segura Ipushima</h1>
-<h3 align="center">Full Stack Developer & Electronics Enthusiast 🇵🇪</h3>
+<h1 align="center"> Hober Fernando Segura Ipushima</h1>
+<h3 align="center">Full Stack Developer & Electronics Enthusiast PERU</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,html,css,js,py,aws,linux,git&theme=dark" alt="Modern Skills" />
